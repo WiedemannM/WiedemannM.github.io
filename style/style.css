@@ -107,6 +107,28 @@ img {
     margin-bottom: 35px;
 }
 
+.collapsible {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  padding: 2px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #f1f1f1;
+}
+
+.content {
+      padding: 0 18px;
+      display: none;
+      overflow: hidden;
+      background-color: white;
+    }
+
 /*@media only screen and (max-width: 1500px) {
   .background {
           width: 50%;
