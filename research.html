@@ -63,7 +63,11 @@
                             <li>
                                 <mc class="paperTitle"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712600">Opioid Crisis and Real Estate Prices </a></mc>  
                                 <p>with C. Custodio and D. Cvijanovic </p>
-                            </li>                        
+                            </li>  
+                            <button type="button" class="collapsible">[+/-] Abstract</button>
+                            <div class="content">
+                              <p>This paper estimates the impact of opioid abuse on real estate prices. We exploit the variation in opioid prescriptions induced by the staggered passage of state laws which intend to limit the usage of opioids. We document a long-term negative relationship between opioid prescriptions and residential real estate prices. For a one standard deviation change in prescriptions (41.10 prescriptions per 100 people) we find a 1.36 percentage points change in home values over the following 5 years. We also estimate a positive increase in home prices of 0.54, respectively 0.91, percentage points in the first, respectively second year, following the passage of these laws. While our results are consistent with opioid usage having significant long lasting negative economic effects, they highlight the positive impact of limiting opioid supply on the real economy.</p>
+                            </div>                      
                         </ul>
                     </div>
                 </div>
@@ -75,6 +79,23 @@
         <span>&nbsp;·&nbsp;<a href="https://www.imperial.ac.uk/business-school/research/finance/">Department of Finance</a>&nbsp;·&nbsp;</span>
         <span><a href="mailto:m.wiedemann18[at]imperial.ac.uk">m.wiedemann18[at]imperial.ac.uk</a></span>
     </footer>
-</body>
 
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
 </html>
