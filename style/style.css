@@ -21,6 +21,11 @@ a {
     cursor: pointer;
 }
 
+p {
+    margin:1px;
+    padding:0;
+}
+
 ul.a {
   list-style-type: circle;
 }
@@ -88,6 +93,8 @@ img {
 
 .background {
     display: inline-block;
+    margin: 0 auto;
+    padding: 3px;
 }
 
 .paperTitle {
@@ -100,12 +107,12 @@ img {
     margin-bottom: 35px;
 }
 
-@media only screen and (max-width: 1500px) {
+/*@media only screen and (max-width: 1500px) {
   .background {
           width: 50%;
       }
   }
-/*@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
   .container {
           width: 70%;
       }
