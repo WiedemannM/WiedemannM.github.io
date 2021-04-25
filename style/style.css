@@ -33,7 +33,13 @@ ul.a {
 ul.edu {
   list-style: none;
 }
-
+ul.rsm {
+  list-style: none;
+}
+ul.ib {
+  list-style: none;  
+  margin-bottom: 0px;
+}
 ul.edu li:before {
     list-style: none;
     content: '';
@@ -41,6 +47,30 @@ ul.edu li:before {
     height: 15px;
     width: 30px;
     background-image: url('eduSmall3.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: -30px;
+}
+
+ul.ib li:before {
+    list-style: none;
+    content: '';
+    display: inline-block;
+    height: 15px;
+    width: 30px;
+    background-image: url('IBedu1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: -30px;
+}
+
+ul.rsm li:before {
+    list-style: none;
+    content: '';
+    display: inline-block;
+    height: 15px;
+    width: 30px;
+    background-image: url('RSMedu1.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: -30px;
