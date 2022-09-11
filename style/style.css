@@ -1,5 +1,5 @@
 body {
-    font-family: Times New Roman;
+    font-family: "Times New Roman";
     font-weight: lighter;
     font-size: 15px;
 }
@@ -10,7 +10,7 @@ h1 {
     font-size: 65px;
 }
 h2, h3, h4 {
-	font-family: Times New Roman
+	font-family: "Times New Roman";
 }
 h2 {
 	font-size: 30px;
@@ -92,7 +92,7 @@ footer {
 
 .navbar {
     text-align: center;
-    font-family: Times New Roman;
+    font-family: "Times New Roman";
     font-weight: 400;
     margin-bottom: 0;
 }
@@ -128,7 +128,7 @@ img {
 }
 
 .paperTitle {
-    font-family: Times New Roman;
+    font-family: "Times New Roman";
     font-weight: 500;
     font-size: 16px;
 }
