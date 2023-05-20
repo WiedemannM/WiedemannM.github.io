@@ -118,6 +118,7 @@ img {
 
 .profile {
     margin: 0 20px 10px 20px;
+    max-height: 230px;
 }
 
 .paperTitle {
@@ -195,6 +196,10 @@ h1 { font-size: 50px; }
   }
 .col-3 {align-items: center;
 	 text-align: center;}
+.profile {
+    margin: 0 5px 2px 5px;
+    max-height: 400px;
+}
 h2 { font-size: 23px; }
 h1 { font-size: 35px; }
   }
