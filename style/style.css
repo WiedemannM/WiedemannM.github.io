@@ -1,5 +1,5 @@
 body {
-    font-family: "Times New Roman";
+    font-family: Times New Roman;
     font-weight: lighter;
     font-size: 15px;
 }
@@ -10,7 +10,7 @@ h1 {
     font-size: 65px;
 }
 h2, h3, h4 {
-	font-family: "Times New Roman";
+	font-family: Times New Roman
 }
 h2 {
 	font-size: 30px;
@@ -92,7 +92,7 @@ footer {
 
 .navbar {
     text-align: center;
-    font-family: "Times New Roman";
+    font-family: Times New Roman;
     font-weight: 400;
     margin-bottom: 0;
 }
@@ -117,18 +117,11 @@ img {
 }
 
 .profile {
-    display: inline-block;
     margin: 0 20px 10px 20px;
 }
 
-.background {
-    display: inline-block;
-    margin: 0 auto;
-    padding: 3px;
-}
-
 .paperTitle {
-    font-family: "Times New Roman";
+    font-family: Times New Roman;
     font-weight: 500;
     font-size: 16px;
 }
@@ -166,25 +159,42 @@ img {
       font-size: 13px;
     }
 
-@media only screen and (max-width: 1500px) {
-  .background {
-          width: 50%;
-      }
-  h2 {
-	font-size: 25px;
-    }
-h1 {
-	font-size: 50px;
-    }
+
+/* For desktop: */
+.col-1 {width: 100%;}
+.col-2 {width: 100%; padding: 0 160px;}
+.col-3 {width: 32%;
+ 	  align-items: right;
+ 	  text-align: right;}
+.col-4 {width: 36%;     
+	  margin: 0 auto;
+	  padding: 3px;}
+.col-5 {width: 32%;
+   	  text-align: left}
+
+@media only screen and (max-width: 1300px) {
+.col-2 {width: 100%; 
+	padding: 0;}
+.col-3 {width: 50%;
+	align-items: right;
+ 	  text-align: right;}
+.col-4 {width: 50%;     
+	  margin: 0 auto;
+	  padding: 3px;}
+.col-5 {width: 100%;
+   	  text-align: center;
+	padding-top: 5px}
+h2 { font-size: 25px; }
+h1 { font-size: 50px; }
   }
+
 @media only screen and (max-width: 768px) {
-  .container {
-          width: 70%;
-      }
-h2 {
-	font-size: 23px;
-    }
-h1 {
-	font-size: 35px;
-    }
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+.col-3 {align-items: center;
+	 text-align: center;}
+h2 { font-size: 23px; }
+h1 { font-size: 35px; }
   }
