@@ -29,14 +29,21 @@ A01G23/14,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 A01G25/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01G2025/003,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01G2025/006,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+A01G25/02,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+A01G25/023,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+A01G25/026,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+A01G25/06,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 A01G25/09,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01G25/092,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01G25/095,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01G25/097,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01G25/14,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01G25/145,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+A01G25/16,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+A01G25/162,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+A01G25/165,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+A01G25/167,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 A01H,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-A01H1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H1/021,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -90,7 +97,6 @@ A01H4/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H4/005,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H4/006,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H4/008,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-A01H5/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H5/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H5/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H5/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -241,7 +247,6 @@ A01H6/86,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H6/88,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H7/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 A01H9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-A01N25/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01N25/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01N25/002,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 A01N25/004,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -282,6 +287,12 @@ A23K10/33,9,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 A23K10/37,9,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 A23K10/38,10,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 A43B1/12,9,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+A47K11/02,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+A47K11/023,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+A47K11/026,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+A47K11/03,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+A47K11/035,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+A47K11/12,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 A61B5/0002,8,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
 A61B5/0004,9,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
 A61B5/0006,10,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
@@ -329,7 +340,6 @@ B01D2258/0208,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B01D2279/60,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 B01D35/005,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 B01D45/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B01D45/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D45/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D45/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D45/06,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -578,18 +588,16 @@ B01D53/002,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o
 B01D53/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/007,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B01D53/02,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/025,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
+B01D53/025,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/04,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B01D53/04,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0407,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0415,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0423,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0431,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0438,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0446,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0454,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/0462,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
+B01D53/0407,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/0415,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/0423,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/0431,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/0438,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/0446,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/0454,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/0462,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/047,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 B01D53/0473,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 B01D53/0476,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
@@ -599,37 +607,34 @@ B01D53/08,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o
 B01D53/10,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/12,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/14,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B01D53/14,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1406,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1412,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1418,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1425,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1431,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1437,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1443,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/145,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1456,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1462,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1468,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1475,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1481,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1487,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/1493,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
+B01D53/1406,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1412,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1418,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1425,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1431,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1437,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1443,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/145,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1456,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1462,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1468,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1475,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1481,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1487,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/1493,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/18,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/185,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/22,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B01D53/22,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D2053/221,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D2053/222,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D2053/223,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D2053/224,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/225,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/226,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/227,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/228,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-B01D53/229,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
+B01D2053/221,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D2053/222,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D2053/223,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D2053/224,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/225,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/226,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/227,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/228,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+B01D53/229,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/24,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B01D53/24,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 B01D53/26,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/261,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B01D53/263,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -927,38 +932,34 @@ B03C3/86,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,match
 B03C3/88,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B03C3/885,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B09B,5,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
-B09B,5,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B1/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B1/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B1/002,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B1/004,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B1/006,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B1/008,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/02,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/04,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/06,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/08,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/10,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/12,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B2220/14,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0008,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0016,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0025,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0033,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0041,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/005,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0058,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0066,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0075,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0083,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B3/0091,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09B5/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+B09B1/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B1/002,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B1/004,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B1/006,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B1/008,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/02,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/04,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/06,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/08,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/10,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/12,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B2220/14,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0008,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0016,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0025,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0033,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0041,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/005,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0058,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0066,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0075,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0083,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B3/0091,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
+B09B5/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no
 B09C,5,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B09C1/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09C1/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B09C1/002,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B09C1/005,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B09C1/007,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -973,7 +974,6 @@ B09C1/085,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matc
 B09C1/10,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B09C1/105,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B09C2101/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B09C2101/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B22D25/04,9,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
 B22F8/00,7,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B29B17/00,7,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -1132,8 +1132,6 @@ B60K2015/0576,12,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,
 B60K2015/0584,12,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 B60K2015/0592,11,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 B60K16/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B60K16/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B60K16/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B60K2016/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,pure green,n.o.i.,n.o.i.
 B60K2016/006,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B60K17/043,9,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
@@ -1192,7 +1190,6 @@ B60K6/543,11,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B60K6/547,11,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B60K7/0007,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60L1/00,6,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
-B60L1/00,7,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60L1/003,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60L1/006,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60L1/02,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
@@ -1510,8 +1507,6 @@ B60L7/24,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60L7/26,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60L7/28,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60L8/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B60L8/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B60L8/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B60L8/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,pure green,n.o.i.,n.o.i.
 B60L8/006,8,IPC,pure green,n.o.i.,n.o.i.,pure green,pure green,n.o.i.,n.o.i.
 B60L9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -1547,7 +1542,6 @@ B60M7/00,7,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60M7/003,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60M7/006,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60W10/00,6,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
-B60W10/00,7,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60W10/02,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60W10/023,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60W10/0235,10,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
@@ -1906,7 +1900,6 @@ B60Y2400/112,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B60Y2400/114,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B61B,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61B1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B1/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B10/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -1947,7 +1940,6 @@ B61B12/122,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o
 B61B12/125,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B12/127,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B13/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61B13/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B13/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B13/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B13/06,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -1958,21 +1950,18 @@ B61B13/122,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o
 B61B13/125,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B13/127,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B15/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61B3/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B3/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B3/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B5/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B5/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B5/025,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B7/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61B7/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B7/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B7/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B7/045,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B7/06,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61B9/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61C1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C1/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -1981,7 +1970,6 @@ B61C1/08,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61C1/10,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C1/12,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C1/14,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61C11/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C11/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C11/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C11/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -1992,7 +1980,6 @@ B61C13/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 B61C13/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C13/06,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C13/08,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61C15/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C15/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C15/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C15/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2050,7 +2037,6 @@ B61C9/48,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61C9/50,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61C9/52,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61D1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D1/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2069,7 +2055,6 @@ B61D15/10,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 B61D15/105,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D15/12,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D15/125,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61D17/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D17/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D17/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D17/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2108,7 +2093,6 @@ B61D23/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 B61D23/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D23/025,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D25/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61D27/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D27/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D27/0009,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D27/0018,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2142,7 +2126,6 @@ B61D3/187,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o
 B61D3/188,11,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D3/20,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D31/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61D31/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D33/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D33/0007,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D33/0014,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2165,7 +2148,6 @@ B61D37/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 B61D37/003,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D37/006,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D39/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61D39/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D39/001,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D39/002,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61D39/003,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2226,7 +2208,6 @@ B61D9/12,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61D9/14,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61F,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61F1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61F1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61F1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61F1/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61F1/06,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2337,7 +2318,6 @@ B61F9/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61F9/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61F99/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61G1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G1/04,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2408,7 +2388,6 @@ B61G7/10,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61G7/12,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G7/14,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G9/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61G9/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G9/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G9/025,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61G9/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2426,7 +2405,6 @@ B61G9/22,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61G9/24,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61H,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61H1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61H1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61H1/003,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61H1/006,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61H11/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2486,7 +2464,6 @@ B61H9/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61H9/06,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61J,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61J1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61J1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61J1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61J1/04,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61J1/06,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2503,7 +2480,6 @@ B61J3/12,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61J99/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61K,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61K1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61K1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61K1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61K11/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61K11/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2538,7 +2514,6 @@ B61K9/10,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i
 B61K9/12,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61L1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L1/025,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L1/04,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2613,7 +2588,6 @@ B61L19/12,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o
 B61L19/14,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L19/16,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L2201/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-B61L2201/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L2201/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L2205/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B61L2205/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -2847,7 +2821,6 @@ B62D35/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 B62D67/00,7,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B62K,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B62K1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K11/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K11/007,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K11/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -2896,7 +2869,6 @@ B62K19/44,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K19/46,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K19/48,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K2201/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B62K2201/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K2201/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K2201/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K2201/06,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -2995,7 +2967,6 @@ B62K7/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K7/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62K9/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B62M1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62M1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62M1/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62M1/105,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -3093,7 +3064,6 @@ B62M7/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62M7/12,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62M7/14,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B62M7/16,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B62M9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63B1/34,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B63B2001/345,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 B63B1/36,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -3179,7 +3149,6 @@ B63B35/70,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63B77/10,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B63C11/52,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B63H13/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B63H13/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H16/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H2016/005,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H16/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -3207,8 +3176,6 @@ B63H2016/202,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H2016/205,11,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H2016/207,12,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H19/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B63H19/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-B63H19/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H19/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 B63H21/12,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 B63H21/14,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
@@ -3278,7 +3245,6 @@ B65D65/463,10,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 B65D65/466,10,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 B65F,5,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F1/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B65F1/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F1/0006,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F1/0013,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F1/002,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -3342,7 +3308,6 @@ B65F2001/1676,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.
 B65F2001/1684,11,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F2001/1692,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F2210/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-B65F2210/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F2210/102,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F2210/1023,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 B65F2210/1026,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -3584,7 +3549,6 @@ C01B33/037,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C01B33/039,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C02F,5,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F1/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-C02F1/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F1/001,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F1/002,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F1/003,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -3735,7 +3699,6 @@ C02F1/763,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,mat
 C02F1/766,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F1/78,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F2101/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-C02F2101/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F2101/003,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F2101/006,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C02F2101/10,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -4196,9 +4159,7 @@ C04B7/26,9,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.
 C04B7/28,9,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C04B7/30,9,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C05F,5,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-C05F,5,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C05F1/00,6,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-C05F1/00,7,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C05F1/002,8,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C05F1/005,8,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C05F1/007,8,OECD & IPC,pure green,pure green,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -4501,7 +4462,6 @@ C10B53/07,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10B53/08,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10G1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G1/002,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G1/004,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G1/006,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -4537,7 +4497,6 @@ C10G15/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G15/08,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G15/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G15/12,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10G17/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G17/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G17/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G17/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -4642,7 +4601,6 @@ C10G3/57,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G3/60,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G3/62,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G2300/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10G2300/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G2300/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G2300/1003,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G2300/1007,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -4757,7 +4715,6 @@ C10G2400/24,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G2400/26,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G2400/28,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G2400/30,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10G45/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G45/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G45/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G45/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -4837,7 +4794,6 @@ C10G5/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G5/06,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G50/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G50/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10G51/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G51/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G51/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G51/023,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -4971,7 +4927,6 @@ C10G73/44,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G75/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G75/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G75/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10G9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G9/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G9/002,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G9/005,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -5000,7 +4955,6 @@ C10G9/42,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10G99/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10J,5,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J1/00,6,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
-C10J1/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J1/02,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J1/04,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J1/06,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
@@ -5018,7 +4972,6 @@ C10J1/24,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,
 C10J1/26,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J1/28,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J2200/00,6,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
-C10J2200/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J2200/06,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J2200/09,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 C10J2200/12,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
@@ -5199,7 +5152,6 @@ C10K3/023,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i
 C10K3/04,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 C10K3/06,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 C10L1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
-C10L1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L1/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L1/006,8,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
@@ -5404,25 +5356,23 @@ C10L2290/547,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.
 C10L2290/567,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 C10L2290/58,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 C10L3/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10L3/00,7,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-C10L3/003,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/006,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/02,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-C10L3/04,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-C10L3/06,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
-C10L3/08,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/10,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/101,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/102,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/103,12,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/104,12,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/105,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/106,11,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/107,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/108,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.
-C10L3/12,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
+C10L3/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/006,9,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
+C10L3/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
+C10L3/06,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
+C10L3/08,9,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/10,9,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/101,10,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/102,11,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/103,12,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/104,12,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/105,11,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/106,11,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/107,10,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/108,10,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
+C10L3/12,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L2300/20,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
-C10L5/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L5/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L5/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L5/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -5455,17 +5405,11 @@ C10L5/40,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L5/403,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L5/406,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L5/42,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10L5/42,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-C10L5/44,9,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L5/44,9,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L5/442,10,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L5/445,10,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L5/447,10,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L5/46,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,pure green,n.o.i.,n.o.i.,no
-C10L5/46,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-C10L5/46,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,pure green,n.o.i.,n.o.i.,no
-C10L5/48,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,pure green,n.o.i.,n.o.i.,no
-C10L5/48,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 C10L5/48,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,pure green,n.o.i.,n.o.i.,no
 C10L9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C10L9/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -5478,7 +5422,6 @@ C10L9/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10L9/12,9,IPC,pure green,n.o.i.,n.o.i.,pure green,fuel efficiency,n.o.i.,n.o.i.
 C10M129/74,10,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 C10M129/76,10,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
-C10M175/00,7,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 C10M175/00,6,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 C10M175/0008,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 C10M175/0016,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -5494,7 +5437,6 @@ C10M175/0091,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 C10M175/02,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 C10M175/04,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 C10M175/06,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-C10M177/00,7,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 C10M2207/021,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 C10M2207/0215,10,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 C10M2207/022,10,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
@@ -5666,6 +5608,7 @@ C12N15/8267,15,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C12N15/8269,15,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C12N15/827,15,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C12N15/8271,14,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
+C12N15/8273,15,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,pure green,n.o.i.,n.o.i.,no
 C12N15/8274,15,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C12N15/8275,16,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C12N15/8277,16,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -5812,7 +5755,6 @@ C23C14/20,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C23C14/205,11,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C23C16/24,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 C25C1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-C25C1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 C25C1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 C25C1/04,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 C25C1/06,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -5920,7 +5862,6 @@ D21H17/01,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 E01H15/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 E02B,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
-E02B1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B1/003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B1/006,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
@@ -6008,7 +5949,6 @@ E02B17/0872,11,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B17/0881,11,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B17/089,11,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B2201/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
-E02B2201/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B2201/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B2201/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 E02B2201/50,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
@@ -6125,6 +6065,65 @@ E02D3/115,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 E02D3/12,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 E02D3/123,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 E02D3/126,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
+E03B1/041,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B1/042,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B1/044,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B2001/045,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B2001/047,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B2011/005,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/02,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/04,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/06,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/08,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/10,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/12,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/14,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B11/16,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/02,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/03,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/04,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/06,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/08,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/10,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/11,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/12,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/14,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/15,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/16,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/18,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/20,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/22,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/24,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/26,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/28,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/30,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/32,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/34,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/36,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/38,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B3/40,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B5/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B5/02,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B5/025,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B5/04,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B5/045,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B5/06,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/02,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B2009/022,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/025,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/027,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/04,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/06,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/08,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/10,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/12,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/14,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/16,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/18,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03B9/20,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03C1/084,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 E03C1/12,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03C2001/1206,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03C2001/1213,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -6187,9 +6186,18 @@ E03C1/326,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,mat
 E03C1/328,11,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03C1/33,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03C1/335,11,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
+E03D1/14,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D1/141,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D1/142,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D1/144,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D1/145,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D2001/147,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D2001/148,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D13/007,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D3/12,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+E03D5/016,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 E03F,5,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F1/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-E03F1/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F1/001,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F1/002,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F1/003,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -6199,7 +6207,6 @@ E03F1/007,9,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matc
 E03F1/008,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F11/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F2201/00,6,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
-E03F2201/00,7,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F2201/10,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F2201/20,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 E03F2201/30,8,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
@@ -6961,7 +6968,6 @@ E04F15/20,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.
 E04F15/203,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 E04F15/206,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 E04H1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-E04H1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 E04H1/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 E04H1/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 E04H1/04,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -7469,7 +7475,6 @@ E21B43/36,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i
 E21B43/38,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 E21B43/385,10,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 E21B43/40,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
-E21B44/00,7,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 E21B44/00,6,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 E21B44/005,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 E21B44/02,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
@@ -7646,7 +7651,6 @@ F01D11/22,11,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F01D11/24,11,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F01K,5,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K1/00,6,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
-F01K1/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K1/02,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K1/04,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K1/06,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
@@ -7727,7 +7731,6 @@ F01K25/14,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no
 F01K27/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K27/005,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K27/02,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
-F01K3/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K3/00,6,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K3/002,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F01K3/004,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
@@ -8039,7 +8042,6 @@ F02B3/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F
 F02B3/08,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F02B3/10,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F02B3/12,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
-F02B43/00,7,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 F02B43/00,6,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 F02B43/02,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 F02B43/04,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
@@ -8067,13 +8069,11 @@ F02B7/08,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F
 F02B75/10,8,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 F02C,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F02C1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
-F02C1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F02C1/002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F02C1/005,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F02C1/007,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F02C1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F02C1/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
-F02C1/05,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F02C1/05,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F02C1/06,10,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F02C1/08,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
@@ -8213,7 +8213,6 @@ F02D21/08,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02D2021/083,10,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02D2021/086,10,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02D21/10,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-F02D41/00,7,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02D41/00,6,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02D41/0002,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02D41/0005,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -8695,7 +8694,6 @@ F02M21/045,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.
 F02M21/047,10,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 F02M21/06,9,IPC,fuel efficiency,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.
 F02M23/00,6,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-F02M23/00,7,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M23/001,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M23/003,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M23/005,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -9114,7 +9112,6 @@ F02M37/48,10,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M37/50,10,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M37/52,10,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M37/54,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-F02M39/00,7,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M39/00,6,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M39/005,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M39/02,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -9427,7 +9424,6 @@ F02M65/005,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M65/006,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M65/007,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M65/008,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-F02M67/00,7,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M67/00,6,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M67/005,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M67/02,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -9622,7 +9618,6 @@ F02M9/133,10,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M9/14,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02M99/00,7,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02P5/00,6,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-F02P5/00,7,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02P5/005,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02P5/02,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02P5/04,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -9702,7 +9697,6 @@ F02P9/005,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F02P9/007,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 F03B,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03B1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F03B1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03B1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03B1/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03B11/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -9818,7 +9812,6 @@ F03B9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03B9/005,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03C,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03C1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F03C1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03C1/001,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03C1/002,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03C1/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -9939,7 +9932,6 @@ F03C99/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03C99/005,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03D,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03D1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F03D1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03D1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03D1/025,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F03D1/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -10378,8 +10370,52 @@ F16H57/0495,11,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.
 F16H57/0497,10,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 F16H57/0498,10,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
 F16H57/05,9,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
+F16K21/06,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/08,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/10,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/12,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/16,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/165,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/18,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/185,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16K21/20,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16L55/07,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+F16L55/16,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1604,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1608,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1612,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1616,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/162,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/163,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/164,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1645,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/16455,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/165,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1651,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1652,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1653,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1654,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1655,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1656,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1657,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1658,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/168,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1683,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1686,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/17,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1705,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/171,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1715,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/172,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/1725,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/175,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/178,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F16L55/179,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
 F16N2210/025,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 F17C2270/0763,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
+F17D5/02,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F17D5/04,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+F17D5/06,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
 F21K99/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F21K2099/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F21L4/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -10399,7 +10435,6 @@ F21S9/032,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F21S9/035,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F21S9/037,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F22B,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F22B1/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,n.o.i.,n.o.i.
 F22B1/00,6,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,n.o.i.,n.o.i.
 F22B1/003,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,n.o.i.,n.o.i.
 F22B1/006,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,pure green,n.o.i.,n.o.i.
@@ -10579,7 +10614,6 @@ F22B31/04,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no
 F22B31/045,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F22B31/06,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
 F22B31/08,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,no,n.o.i.
-F22B33/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,pure green,n.o.i.,n.o.i.,n.o.i.
 F22B33/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B33/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B33/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -10727,7 +10761,6 @@ F22B37/72,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.
 F22B37/74,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B37/76,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B37/78,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F22B5/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B5/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B5/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B5/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -10755,7 +10788,6 @@ F22B9/16,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22B9/18,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22D,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22D1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F22D1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22D1/003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22D1/006,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22D1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -10825,7 +10857,6 @@ F22D7/12,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22D7/14,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F22G,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F22G1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
-F22G1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F22G1/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F22G1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F22G1/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
@@ -10873,7 +10904,6 @@ F22G7/14,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F22G7/145,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,no,n.o.i.
 F23B,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23B1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B1/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B1/06,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -10895,7 +10925,6 @@ F23B1/36,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B1/38,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B10/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23B10/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
-F23B2101/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B2101/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B2103/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23B2103/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -10965,7 +10994,6 @@ F23B2900/99001,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,
 F23B99/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23C,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23C1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
-F23C1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23C1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23C1/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23C1/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
@@ -11000,7 +11028,6 @@ F23C13/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;
 F23C13/08,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23C15/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23C2200/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23C2200/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23C2201/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23C2201/10,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23C2201/101,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -11122,7 +11149,6 @@ F23C99/006,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.
 F23C99/008,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
-F23D1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D1/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D1/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
@@ -11237,13 +11263,11 @@ F23D14/80,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24
 F23D14/82,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D14/825,11,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D14/84,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
-F23D17/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D17/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D17/002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D17/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D17/007,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,B60;B68;F24;F27,n.o.i.
 F23D2200/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23D2200/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D2201/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D2201/10,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D2201/101,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -11317,7 +11341,6 @@ F23D2212/203,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.
 F23D2213/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D2214/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D23/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23D3/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D3/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D3/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23D3/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -11443,9 +11466,7 @@ F23D91/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i
 F23D99/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23G,5,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F23G1/00,6,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-F23G1/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F23G2200/00,6,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-F23G2200/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F23G2201/00,7,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F23G2201/10,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F23G2201/101,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -11719,7 +11740,6 @@ F23G2900/70401,9,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - uncla
 F23G2900/70601,8,IPC & FF,fuel efficiency,n.o.i.,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 F23H,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23H1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H1/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H1/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -11767,7 +11787,6 @@ F23H7/14,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H7/16,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H7/18,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H2700/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23H2700/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H2700/001,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H2700/002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23H2700/003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -11791,7 +11810,6 @@ F23H2900/17001,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,
 F23H2900/17002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23J1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J1/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J1/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -11820,7 +11838,6 @@ F23J15/04,9,OECD & IPC & FF,fuel efficiency,fuel efficiency,fuel efficiency,matc
 F23J15/06,8,OECD & IPC & FF,fuel efficiency,fuel efficiency,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,no
 F23J15/08,8,OECD & IPC & FF,fuel efficiency,fuel efficiency,fuel efficiency,matched - unclassified,n.o.i.,n.o.i.,no
 F23J2211/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23J2211/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J2211/10,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J2211/101,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23J2211/20,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -11925,11 +11942,9 @@ F23J2900/15081,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,
 F23J99/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23K1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K1/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K2200/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23K2200/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K2201/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K2201/10,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23K2201/1003,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12022,7 +12037,6 @@ F23K2900/05141,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,
 F23K2900/05142,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23L1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L11/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L11/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12056,7 +12070,6 @@ F23L7/002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i
 F23L7/005,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L7/007,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L2700/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23L2700/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L2700/001,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L2700/002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23L9/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12092,7 +12105,6 @@ F23M11/047,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.
 F23M20/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M20/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M3/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23M3/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M3/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M3/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M3/06,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12115,7 +12127,6 @@ F23M7/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M7/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M7/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M2700/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23M2700/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M2700/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M2700/0053,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23M2700/0056,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12146,7 +12157,6 @@ F23M2900/13003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,
 F23M2900/13004,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23N1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N1/002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N1/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N1/007,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12171,7 +12181,6 @@ F23N1/102,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.
 F23N1/105,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N1/107,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N2221/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23N2221/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N2221/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N2221/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23N2221/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12406,7 +12415,6 @@ F23N2900/05101,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,
 F23N2900/05181,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23Q,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23Q1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23Q1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23Q1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23Q1/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23Q1/06,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12503,7 +12511,6 @@ F23Q9/12,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23Q9/14,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R3/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23R3/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R3/002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R3/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R3/007,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12546,7 +12553,6 @@ F23R3/60,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R5/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R7/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R2900/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F23R2900/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R2900/00001,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R2900/00002,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F23R2900/00004,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -12881,9 +12887,7 @@ F24H7/062,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24H7/065,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24H7/067,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24S,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F24S,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24S10/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F24S10/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24S10/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24S10/13,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24S10/17,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -13159,7 +13163,6 @@ F24S90/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24S90/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24T,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24T10/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F24T10/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24T10/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24T10/13,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24T10/15,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -13173,9 +13176,6 @@ F24T2010/56,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24T2201/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24T50/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24V30/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F24V30/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F24V30/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-F24V30/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24V40/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24V40/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F24V50/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -13438,7 +13438,6 @@ F26B3/353,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F26B3/36,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 F27B,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27B1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F27B1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27B1/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27B1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27B1/025,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -13803,7 +13802,6 @@ F27B9/39,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27B9/40,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F27D1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D1/0003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D1/0006,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D1/0009,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -13958,7 +13956,6 @@ F27D2019/009,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.
 F27D2019/0093,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D2019/0096,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D2201/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F27D2201/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D21/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D2021/0007,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27D21/0014,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -14239,7 +14236,6 @@ F27D2099/0096,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n
 F27D2099/0098,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27M,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27M2001/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F27M2001/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27M2001/01,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27M2001/012,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F27M2001/015,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -14321,7 +14317,6 @@ F27M2003/18,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o
 F27M2003/19,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28B,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28B1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F28B1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28B1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28B1/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28B1/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -14344,7 +14339,6 @@ F28B9/08,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28B9/10,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28C,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28C1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F28C1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28C1/003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28C2001/006,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28C1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -14369,7 +14363,6 @@ F28C3/16,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i
 F28C3/18,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F28D1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D1/0206,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D1/0213,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -14433,7 +14426,6 @@ F28D11/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i
 F28D11/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D11/08,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D13/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F28D15/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D15/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D15/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
 F28D15/0208,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
@@ -14618,7 +14610,6 @@ F28D9/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28D9/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F28F1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F1/003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F1/006,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -14693,7 +14684,6 @@ F28F19/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i
 F28F19/04,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F19/06,9,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F2200/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F28F2200/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F2200/005,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F21/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28F21/003,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -14949,7 +14939,6 @@ F28F9/268,10,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.
 F28F99/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28G,5,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28G1/00,6,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
-F28G1/00,7,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28G1/02,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28G1/04,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
 F28G1/06,8,FF,fuel efficiency,n.o.i.,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.
@@ -15001,9 +14990,56 @@ G01M15/104,11,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,n
 G01M15/106,11,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 G01M15/108,11,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 G01M15/14,8,CK,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,fuel efficiency,n.o.i.,n.o.i.
+G01M3/08,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/081,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/083,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/085,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/086,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/088,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/14,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/141,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/142,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/143,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/144,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/145,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/146,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/147,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/148,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/18,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/181,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/182,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/183,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/184,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/185,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/186,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/187,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/188,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/22,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/221,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/222,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/223,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/224,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/225,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/226,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/227,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/228,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/229,13,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/28,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2807,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2815,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2823,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/283,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2838,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2846,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2853,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2861,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2869,12,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2876,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2884,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/2892,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
+G01M3/30,11,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,E03B;E03C;E03D
 G01R,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G01R1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G01R1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G01R1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G01R1/025,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G01R1/04,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -16022,9 +16058,7 @@ G06F2119/08,8,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassif
 G06F2212/1028,9,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
 G06F2212/1044,10,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
 G06Q,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-G06Q,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q10/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-G06Q10/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q10/02,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q10/025,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q10/04,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -16224,7 +16258,6 @@ G06Q20/40975,12,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,
 G06Q20/42,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q20/425,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q2220/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-G06Q2220/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q2220/10,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q2220/12,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G06Q2220/123,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -16409,7 +16442,6 @@ G08B21/14,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,mat
 G08B21/16,10,OECD & IPC,matched - unclassified,matched - unclassified,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,no
 G08G,5,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G08G1/00,6,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
-G08G1/00,7,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G08G1/005,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G08G1/01,8,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 G08G1/0104,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
@@ -16558,7 +16590,6 @@ G11B2005/0021,10,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclas
 G11C5/141,9,CK,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.
 G21B,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21B1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21B1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21B1/01,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21B1/03,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21B1/05,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -16581,7 +16612,6 @@ G21B3/006,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21B3/008,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21C,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21C1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21C1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21C1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21C1/022,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21C1/024,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -16896,7 +16926,6 @@ G21C9/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21C9/06,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21D,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21D1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21D1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21D1/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21D1/006,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21D1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -16932,7 +16961,6 @@ G21D7/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21D9/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21F,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21F1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21F1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21F1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21F1/023,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21F1/026,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -17027,7 +17055,6 @@ G21F9/34,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21F9/36,10,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21G,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21G1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21G1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21G1/0005,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21G1/001,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21G2001/0015,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -17062,7 +17089,6 @@ G21G5/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21G7/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21H,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21H1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21H1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21H1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21H1/04,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21H1/06,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -17078,13 +17104,11 @@ G21H5/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21H7/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21J,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21J1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21J1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21J3/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21J3/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21J5/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21K1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K1/003,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K1/006,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -17104,7 +17128,6 @@ G21K1/12,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K1/14,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K1/16,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K2201/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-G21K2201/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K2201/06,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K2201/061,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 G21K2201/062,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -18443,7 +18466,6 @@ H01M8/249,9,IPC,pure green,n.o.i.,n.o.i.,pure green,pure green,n.o.i.,n.o.i.
 H01M8/2495,10,IPC,pure green,n.o.i.,n.o.i.,pure green,pure green,n.o.i.,n.o.i.
 H02J,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02J1/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-H02J1/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02J1/001,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02J1/002,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02J1/02,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -19002,7 +19024,6 @@ H02P5/747,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H02P5/753,10,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H02S,5,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02S10/00,6,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
-H02S10/00,7,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02S10/10,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02S10/12,9,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
 H02S10/20,8,IPC,pure green,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.,n.o.i.
@@ -19085,7 +19106,6 @@ H05B33/24,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o
 H05B33/26,9,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 H05B33/28,10,IPC,matched - unclassified,n.o.i.,n.o.i.,matched - unclassified,n.o.i.,n.o.i.,n.o.i.
 H05H1/00,6,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
-H05H1/00,7,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H05H1/0006,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H05H1/0012,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H05H1/0018,10,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
@@ -19253,10 +19273,81 @@ H05K9/0092,10,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H05K9/0094,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H05K9/0096,10,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 H05K9/0098,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
+Y02A10/00,6,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A10/11,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A10/23,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A10/26,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A10/30,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A10/40,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/108,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/124,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/131,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/138,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/141,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/142,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/144,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/146,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/148,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/15,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/152,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/20,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02A20/204,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/208,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/211,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/212,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02A20/30,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/40,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/402,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/404,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/406,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A20/411,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/14,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/24,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/242,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/244,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/249,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/254,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/27,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/272,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/274,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/30,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A30/60,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/10,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/13,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/132,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/135,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/138,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/146,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/20,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/22,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/25,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/28,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/51,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/58,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/60,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/70,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/76,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/80,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/81,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/818,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/90,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/924,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/926,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/928,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/963,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A40/966,10,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A50/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A50/20,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A50/2351,9,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A50/30,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A90/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A90/10,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A90/30,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
+Y02A90/40,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02B10/00,6,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-Y02B10/00,7,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02B10/10,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02B10/20,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02B10/30,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -19299,13 +19390,11 @@ Y02C20/20,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02C20/30,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02C20/40,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02D10/00,6,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-Y02D10/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02D30/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02D30/50,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02D30/70,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02E,5,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02E10/00,6,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-Y02E10/00,7,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02E10/10,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02E10/20,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02E10/30,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -19369,7 +19458,6 @@ Y02E70/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o
 Y02E70/30,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02P,5,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02P10/00,6,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-Y02P10/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02P10/10,8,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02P10/122,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02P10/134,9,OECD,fuel efficiency,fuel efficiency,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -19487,7 +19575,6 @@ Y02T90/16,9,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02T90/167,10,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02T90/40,8,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02W10/00,6,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
-Y02W10/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02W10/10,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02W10/20,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02W10/30,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
@@ -19516,7 +19603,6 @@ Y02W30/91,9,OECD,pure green,pure green,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02W90/00,7,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y02W90/10,8,OECD,matched - unclassified,matched - unclassified,n.o.i.,n.o.i.,n.o.i.,n.o.i.,no
 Y04S10/00,6,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
-Y04S10/00,7,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S10/12,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S10/123,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S10/126,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
@@ -19530,7 +19616,6 @@ Y04S10/40,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S10/50,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S10/52,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S20/12,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
-Y04S40/00,7,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S40/00,6,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S40/12,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S40/121,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
@@ -19539,7 +19624,6 @@ Y04S40/126,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S40/128,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S40/18,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S40/20,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
-Y04S50/00,7,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y04S50/10,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y10S136/291,8,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
 Y10S136/292,9,CK,pure green,n.o.i.,n.o.i.,n.o.i.,pure green,n.o.i.,n.o.i.
