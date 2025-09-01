@@ -4,6 +4,29 @@ body {
     font-size: 15px;
 }
 
+summary {
+  cursor: pointer;
+  background-color: #f0f0f0; 
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin: 4px 0;
+  list-style: none;        /* removes default marker in some browsers */
+}
+
+summary::-webkit-details-marker {
+  display: none;           /* removes arrow in Chrome/Safari */
+}
+
+summary::after {
+  content: "▼";            /* custom arrow */
+  float: right;
+  transition: transform 0.2s ease;
+}
+
+details[open] summary::after {
+  transform: rotate(-180deg);  /* flip arrow when open */
+}
+
 h1 {
     font-family: Castellar;
     color: #0E4596;
@@ -144,6 +167,15 @@ img {
 
 .active, .collapsible:hover {
   background-color: #f1f1f1;
+}
+
+.summary {
+  cursor: pointer;        /* shows hand cursor */
+  font-weight: bold;      /* makes "Abstract" stand out */
+  list-style: none;       /* remove default marker (optional) */
+}
+.summary::marker {
+  font-size: 1.2em;       /* keep or style the default arrow */
 }
 
 .content {
