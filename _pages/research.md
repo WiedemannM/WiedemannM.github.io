@@ -104,3 +104,35 @@ We investigate the relationship between childhood mental health conditions and f
 **2019:** GRASFI PhD Workshop; University of Siegen Conference on Risk Governance and Sustainability
 
 \* conference presentation by co-author
+
+---
+
+## Discussions
+
+**Climate Policy and Firm Efficiency: Lessons From the Trucking Industry** (2025)  
+Gustav Martinsson, Per Strömberg, and Christian Thomann.  
+*52nd EFA Annual Meeting*
+
+**ESG Skill of Mutual Fund Managers** (2025)  
+Marco Ceccarelli, Richard B. Evans, Simon Glossner, Mikael Homanen, and Ellie Luu.  
+*2025 MFA Annual Meeting*
+
+**Green Products** (2025)  
+Wan-chien Chiu, Po-hsuan Hsu, Kai Li, and Joy Tianjiao Tong.  
+*2025 AFA Annual Meeting*
+
+**Smart Cities: Digital Solutions to a Green Future** (2024)  
+Xiaoqing (Maggie) Fu, Endong Yang, and Hongli Jiang.  
+*Adam Smith Sustainability Conference & 2nd Annual Conference of the British Accounting Review*
+
+**Financing the Global Shift to Electric Mobility** (2024)  
+Jan Bena, Bo Bian, and Huan Tang.  
+*51st EFA Annual Meeting*
+
+**Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks** (2023)  
+Ulrich Hege, Kai Li, and Yifei Zhang.  
+*1st HEC - HKUST Workshop on Impact and Sustainable Finance*
+
+**Climate Risk and Financial Stability in the Network of Banks and Investment Funds** (2020)  
+Alan Roncoroni, Stefano Battiston, Luis Onésimo Leonardo Escobar Farfán, and Serafin Martinez Jaramillo.  
+*UZH Young Researcher Workshop on Climate Finance*
