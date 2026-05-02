@@ -404,3 +404,40 @@
 .page {
   min-height: 75vh;
 }
+
+/* Visual refinements */
+#main {
+  max-width: 1300px;
+}
+
+.page {
+  min-height: 75vh;
+}
+
+.page__content {
+  font-size: 0.95em;
+  line-height: 1.65;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  margin-top: 1.4em;
+}
+
+.page__content h2 {
+  font-size: 1.25em;
+}
+
+.page__content h3 {
+  font-size: 1.05em;
+}
+
+.page__content details {
+  margin: 0.6em 0 1.2em 0;
+}
+
+.page__content summary {
+  cursor: pointer;
+  font-weight: 600;
+}
