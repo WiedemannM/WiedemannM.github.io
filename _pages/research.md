@@ -87,19 +87,19 @@ We investigate the relationship between childhood mental health conditions and f
 
 ## Invited and Conference Presentations
 
-**2026:** MFA*, Eastern Finance Association*, 1st Transatlantic Workshop in Energy and Nature Finance, World Biodiversity Forum, Dutch Sustainable Finance Workshop
+**2026:** MFA\*, Eastern Finance Association\*, 1st Transatlantic Workshop in Energy and Nature Finance, World Biodiversity Forum, Dutch Sustainable Finance Workshop
 
-**2025:** Conference on the Economics and Finance of Healthcare and Medicine at WashU*, Workshop on Biodiversity and Finance at Imperial
+**2025:** Conference on the Economics and Finance of Healthcare and Medicine at WashU\*, Workshop on Biodiversity and Finance at Imperial
 
 **2024:** AFA, Adam Smith Sustainability Conference, GRASFI, Entrepreneurship and Innovation Symposium NOVA
 
-**2023:** UBC Winter Finance Conference, SSE Harnessing Finance for Climate*, Carey Finance Conference PhD Session, Hoyt Institute*
+**2023:** UBC Winter Finance Conference, SSE Harnessing Finance for Climate\*, Carey Finance Conference PhD Session, Hoyt Institute\*
 
-**2022:** CEPR Advanced Forum for Financial Economics (CAFFE)*, UBC Sauder Business School*, University of Southern California*, Bocconi University*, Stanford Institute for Theoretical Economics*, ECB Conference on Money Markets*
+**2022:** CEPR Advanced Forum for Financial Economics (CAFFE)\*, UBC Sauder Business School\*, University of Southern California\*, Bocconi University\*, Stanford Institute for Theoretical Economics\*, ECB Conference on Money Markets\*
 
-**2021:** AREUEA 2021 National Conference, MIT CRE Seminar Series*, Baruch College*, Ted Rodgers School of Business Management - Ryerson*
+**2021:** AREUEA 2021 National Conference, MIT CRE Seminar Series\*, Baruch College\*, Ted Rodgers School of Business Management - Ryerson\*
 
-**2020:** UZH Young Researcher Workshop on Climate Finance, University of Reading*
+**2020:** UZH Young Researcher Workshop on Climate Finance, University of Reading\*
 
 **2019:** GRASFI PhD Workshop; University of Siegen Conference on Risk Governance and Sustainability
 
