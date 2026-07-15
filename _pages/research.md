@@ -45,11 +45,11 @@ with P. Bolton and M. Kacperczyk
 <details>
 <summary>Abstract</summary>
 
-We analyze green and brown R&D activity worldwide and its effects in reducing carbon emissions. Innovating companies with higher carbon emissions engage more in brown R&D and less in green R&D. Despite a steady rise in the share of green R&D, green innovation does not predict future reductions in carbon emissions of innovating firms, non-innovating firms in the same sector, firms in other sectors, and across countries, whether in the short term (one year after filing a green patent) or in the medium term (three or five years out). Rather, green innovation predicts higher indirect emissions in related industries.
+We split environmental innovation into pure green and fuel-efficiency patent categories and study their relation to corporate carbon emissions in a global sample of firms. Green innovation is mostly unrelated to direct or indirect emissions, whereas fuel-efficiency innovation predicts lower emission intensity, with gains concentrated in emission-intensive industries—a result that survives instrumenting with quasi-random patent-examiner assignment. Intensity gains do not translate into lower total emissions: fuel-efficiency innovation also predicts higher sales and capital expenditure, consistent with a Jevons-type rebound. Fuel-efficiency innovation diffuses through production networks to non-innovating firms; green innovation displays patterns consistent with cross-industry displacement.
 
 </details>
 
-Supplementary material: [Patent Classification Methodology](/files/PatentClassificationMethodology_BKW.pdf) [Patent Classification Data](/files/BKW_CO2Question_classification.csv)
+Supplementary material: [Patent Classification Methodology](/files/PatentClassificationMethodology_BKW.pdf); [Patent Classification Data](/files/BKW_CO2Question_classification.csv)
 
 ---
 
