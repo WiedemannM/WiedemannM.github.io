@@ -49,7 +49,7 @@ We analyze green and brown R&D activity worldwide and its effects in reducing ca
 
 </details>
 
-Supplementary material: [Patent Classification](/files/DescriptionPatentClassification.pdf)
+Supplementary material: [Patent Classification Methodology](/files/PatentClassificationMethodology_BKW.pdf) [Patent Classification Data](/files/BKW_CO2Question_classification.csv)
 
 ---
 
