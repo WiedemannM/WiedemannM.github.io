@@ -111,27 +111,35 @@ We investigate the relationship between childhood mental health conditions and f
 
 ## Discussions
 
-**Climate Policy and Firm Efficiency: Lessons From the Trucking Industry** (2025)  
+**Beyond lockdowns: working from home and mental health across three phases of the pandemic** (2026) [Slides](/files/Discussions/2026_Wiedemann_Discussion_MHWorkshop.pdf) 
+Anam Bilgrami.  
+*Economics of Mental Health Workshop 2026*
+
+**Climate Policy and Firm Efficiency: Lessons From the Trucking Industry** (2025) [Slides](/files/Discussions/2025_Wiedemann_Discussion_EFA.pdf) 
 Gustav Martinsson, Per Strömberg, and Christian Thomann.  
 *52nd EFA Annual Meeting*
 
-**ESG Skill of Mutual Fund Managers** (2025)  
+**Climate Policy and Firm Efficiency: Lessons From the Trucking Industry** (2025) [Slides](/files/Discussions/2025_Wiedemann_Discussion_EFA.pdf) 
+Gustav Martinsson, Per Strömberg, and Christian Thomann.  
+*52nd EFA Annual Meeting*
+
+**ESG Skill of Mutual Fund Managers** (2025) [Slides](/files/Discussions/2025_Wiedemann_Discussion_MFA.pdf)  
 Marco Ceccarelli, Richard B. Evans, Simon Glossner, Mikael Homanen, and Ellie Luu.  
 *2025 MFA Annual Meeting*
 
-**Green Products** (2025)  
+**Green Products** (2025) [Slides](/files/Discussions/2025_Wiedemann_Discussion_AFA.pdf)  
 Wan-chien Chiu, Po-hsuan Hsu, Kai Li, and Joy Tianjiao Tong.  
 *2025 AFA Annual Meeting*
 
-**Smart Cities: Digital Solutions to a Green Future** (2024)  
+**Smart Cities: Digital Solutions to a Green Future** (2024) [Slides](/files/Discussions/2024_Wiedemann_Discussion_AdamSmith.pdf)  
 Xiaoqing (Maggie) Fu, Endong Yang, and Hongli Jiang.  
 *Adam Smith Sustainability Conference & 2nd Annual Conference of the British Accounting Review*
 
-**Financing the Global Shift to Electric Mobility** (2024)  
+**Financing the Global Shift to Electric Mobility** (2024) [Slides](/files/Discussions/2025_Wiedemann_Discussion_EFA.pdf)  
 Jan Bena, Bo Bian, and Huan Tang.  
 *51st EFA Annual Meeting*
 
-**Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks** (2023)  
+**Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks** (2023) [Slides](/files/Discussions/2023_Wiedemann_Discussion_CIACE.pdf)  
 Ulrich Hege, Kai Li, and Yifei Zhang.  
 *1st HEC - HKUST Workshop on Impact and Sustainable Finance*
 
