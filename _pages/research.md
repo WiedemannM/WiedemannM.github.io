@@ -9,6 +9,7 @@ author_profile: true
 ### [Opioid Crisis and Real Estate Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712600)
 
 with C. Custodio and D. Cvijanovic
+
 *Journal of Financial and Quantitative Analysis, 2026;61(4):1604-1631.*
 
 <details>
