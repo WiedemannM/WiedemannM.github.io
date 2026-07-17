@@ -74,6 +74,9 @@
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
+      {% if author.futureproofing_institute %}
+        <li><a href="{{ author.futureproofing_institute }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-globe icon-pad-right" aria-hidden="true"></i>Futureproofing Institute</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
