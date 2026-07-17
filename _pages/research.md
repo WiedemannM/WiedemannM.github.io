@@ -89,7 +89,7 @@ We investigate the relationship between childhood mental health conditions and f
 
 ## Invited and Conference Presentations
 
-**2026:** MFA\*, Eastern Finance Association\*, 1st Transatlantic Workshop in Energy and Nature Finance, World Biodiversity Forum, Dutch Sustainable Finance Workshop, Economics in Mental Health Workshop
+**2026:** MFA\*, Eastern Finance Association\*, 1st Transatlantic Workshop in Energy and Nature Finance, World Biodiversity Forum, Dutch Sustainable Finance Workshop, Economics in Mental Health Workshop, RBFC 2026
 
 **2025:** Conference on the Economics and Finance of Healthcare and Medicine at WashU\*, Workshop on Biodiversity and Finance at Imperial
 
