@@ -79,7 +79,9 @@ We investigate the relationship between childhood mental health conditions and f
 
 ---
 
-## Non-Peer Reviewed Articles
+## Non-Peer Reviewed Publications
+
+### [DAX-AEX Futureproof Index](https://www.futureproofinginstitute.com/s/DAX-AEX-Futureproof-Index.pdf)
 
 ### [What Can We Learn from Physical Climate Risks for Financial versus Operational Risk Management Trade-offs?](/files/40%20-%20Wiedemann.pdf)
 
