@@ -10,7 +10,7 @@ author_profile: true
 
 with C. Custodio and D. Cvijanovic
 
-Accepted, *Journal of Financial and Quantitative Analysis*
+*Journal of Financial and Quantitative Analysis, 2026;61(4):1604-1631.*
 
 <details>
 <summary>Abstract</summary>
