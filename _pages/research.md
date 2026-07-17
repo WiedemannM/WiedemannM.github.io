@@ -119,10 +119,6 @@ Anam Bilgrami.
 Gustav Martinsson, Per Strömberg, and Christian Thomann.  
 *52nd EFA Annual Meeting*
 
-**Climate Policy and Firm Efficiency: Lessons From the Trucking Industry** (2025) [Slides](/files/Discussions/2025_Wiedemann_Discussion_EFA.pdf) 
-Gustav Martinsson, Per Strömberg, and Christian Thomann.  
-*52nd EFA Annual Meeting*
-
 **ESG Skill of Mutual Fund Managers** (2025) [Slides](/files/Discussions/2025_Wiedemann_Discussion_MFA.pdf)  
 Marco Ceccarelli, Richard B. Evans, Simon Glossner, Mikael Homanen, and Ellie Luu.  
 *2025 MFA Annual Meeting*
