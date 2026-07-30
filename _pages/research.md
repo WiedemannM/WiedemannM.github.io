@@ -131,7 +131,7 @@ Wan-chien Chiu, Po-hsuan Hsu, Kai Li, and Joy Tianjiao Tong.
 Xiaoqing (Maggie) Fu, Endong Yang, and Hongli Jiang.  
 *Adam Smith Sustainability Conference & 2nd Annual Conference of the British Accounting Review*
 
-**Financing the Global Shift to Electric Mobility** (2024) [Slides](/files/Discussions/2025_Wiedemann_Discussion_EFA.pdf)  
+**Financing the Global Shift to Electric Mobility** (2024) [Slides](/files/Discussions/2024_Wiedemann_Discussion_EFA.pdf)  
 Jan Bena, Bo Bian, and Huan Tang.  
 *51st EFA Annual Meeting*
 
