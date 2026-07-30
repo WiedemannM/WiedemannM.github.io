@@ -30,7 +30,7 @@ Media: [IBKnowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/fin
 <details>
 <summary>Abstract</summary>
 
-This paper examines whether responsible institutional investors affect firms' green capital expenditures. I identify responsible investors using the Climate Action 100+ initiative and measure firms' green capital expenditures with green debt issuance complemented with green patenting and greenhouse gas emissions. Exploiting regional differences in sustainability preferences, I use the cross-listing of European and Asian firms in the United States as a negative shock to responsible ownership. A staggered difference-in-differences design shows that cross-listing firms experience a decline in responsible ownership and subsequently reduce green efforts. Together, the evidence suggests that responsible investors influence corporate decarbonization by shaping firms' investment decisions.
+This paper examines whether responsible institutional ownership affects firms' green capital expenditures. Exploiting regional differences in sustainability preferences, I use U.S. cross-listings by European and Asian firms as plausibly exogenous negative shocks to responsible ownership. In a staggered difference-in-differences design, cross-listed firms experience a shift toward U.S. institutional ownership, a decline in responsible ownership, and lower subsequent green debt issuance. Complementary evidence links greater responsible ownership to more green patenting and lower greenhouse gas emissions. Together, the findings suggest that responsible investors shape firms' green capital expenditures and environmental outcomes rather than merely engaging in cheap talk.
 
 </details>
 
