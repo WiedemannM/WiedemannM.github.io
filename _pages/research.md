@@ -64,7 +64,7 @@ Companies face transition risks and opportunities that are not fully captured by
 
 </details>
 
-Media: [Börsen-Zeitung]([https://www.bnr.nl/nieuws/economie/10600497/een-glas-bier-kost-de-maatschappij-meer-dan-het-oplevert](https://www.boersen-zeitung.de/konjunktur-politik/unser-ziel-ist-eine-gesamtheitliche-betrachtung)), [Het Financieele Dagblad](https://fd.nl/financiele-markten/1595839/het-meest-toekomstbestendige-aex-fonds-is-philips), [BNR Nieuwsradio](https://www.bnr.nl/nieuws/economie/10600497/een-glas-bier-kost-de-maatschappij-meer-dan-het-oplevert) 
+Media: [Börsen-Zeitung](https://www.boersen-zeitung.de/konjunktur-politik/unser-ziel-ist-eine-gesamtheitliche-betrachtung), [Het Financieele Dagblad](https://fd.nl/financiele-markten/1595839/het-meest-toekomstbestendige-aex-fonds-is-philips), [BNR Nieuwsradio](https://www.bnr.nl/nieuws/economie/10600497/een-glas-bier-kost-de-maatschappij-meer-dan-het-oplevert) 
 
 ---
 
