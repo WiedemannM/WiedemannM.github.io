@@ -53,6 +53,21 @@ Supplementary material: [Patent Classification Methodology](/files/PatentClassif
 
 ---
 
+### [Futureproofing companies & valuation ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242113)
+
+with W. Marijnissen, W. Schramade and D. Schoenmake
+
+<details>
+<summary>Abstract</summary>
+
+Companies face transition risks and opportunities that are not fully captured by conventional valuation ratios. We address this limitation by incorporating social and environmental externalities into company valuation to provide a comprehensive assessment of value. Building on impact valuation methods, we estimate integrated value as the sum of financial, social and environmental value and express it relative to financial value through the “Futureproofing Ratio”, a natural extension of the price-to-book ratio. We apply the framework to 52 non-financial DAX and AEX companies. The results show that Futureproofing Ratios provide a differentiated, multidimensional assessment of business-model transition exposure; vary substantially across companies and sectors; and produce company rankings that remain comparatively stable under alternative assumptions. The ratio may strengthen conventional financial analysis and inform corporate and investor assessment and decision making.
+
+</details>
+
+Media: [Börsen-Zeitung]([https://www.bnr.nl/nieuws/economie/10600497/een-glas-bier-kost-de-maatschappij-meer-dan-het-oplevert](https://www.boersen-zeitung.de/konjunktur-politik/unser-ziel-ist-eine-gesamtheitliche-betrachtung)), [Het Financieele Dagblad](https://fd.nl/financiele-markten/1595839/het-meest-toekomstbestendige-aex-fonds-is-philips), [BNR Nieuwsradio](https://www.bnr.nl/nieuws/economie/10600497/een-glas-bier-kost-de-maatschappij-meer-dan-het-oplevert) 
+
+---
+
 ### [Nature Dependence, Economic Value, and Extinction Risk: Evidence from Biotech Innovations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5436935)
 
 with A. Lam and D. Licher
