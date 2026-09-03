@@ -88,7 +88,7 @@ with D. Cvijanovic and A. Wu
 <details>
 <summary>Abstract</summary>
 
-We investigate the relationship between childhood mental health conditions and financial outcomes later in life. We find that individuals with childhood mental health conditions are significantly less likely to hold any assets, accumulate fewer total assets both unconditionally and conditionally on asset ownership, and are less likely to be homeowners over the life cycle. They also tend to accumulate more debt, and in particular more non-mortgage debt. These results are largely driven by white and male demographic groups. Financial literacy mitigates most of these effects. Childhood mental health is also linked to a lower likelihood of overconfidence, shorter life span expectancy and financial planning horizons, more pessimistic economic outlook, and reduced cognitive abilities, all of which may jointly explain the observed differences in financial outcomes.
+This paper examines how childhood mental health conditions shape financial outcomes later in life. Using 1996–2020 Health and Retirement Study data, we build a household-level financial fragility index and find that households with childhood mental health conditions have weaker adult balance sheets, including fewer financial assets, lower risky-asset participation and homeownership, and more non-mortgage debt. These balance-sheet patterns are accompanied by more pessimistic expectations and shorter financial planning horizons, consistent with financial behavior as an important channel. Our results are mirrored when using a polygenic score for major depressive disorder as a predetermined measure of mental health conditions.
 
 </details>
 
