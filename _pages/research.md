@@ -8,7 +8,9 @@ author_profile: true
 
 ### [Opioid Crisis and Real Estate Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712600)
 
-<p style="margin-bottom: 0;">
+<div class="publication-entry">
+
+<p>
 with C. Custodio and D. Cvijanovic<br>
 <em>Journal of Financial and Quantitative Analysis, 2026;61(4):1604-1631.</em>
 </p>
@@ -16,11 +18,17 @@ with C. Custodio and D. Cvijanovic<br>
 <details>
 <summary>Abstract</summary>
 
+<p>
 We study the impact of opioid abuse on real estate prices. We document that opioid death rates and excess prescription rates are negatively associated with house prices. Exploiting the staggered passage of opioid-limiting legislation, we find that a decrease in opioid abuse results in higher county-level house prices. This effect is due to fewer mortgage delinquencies, lower vacancy rates, more home improvement loans, and increased population inflow. Our findings are consistent with improved real estate conditions and a rise in local demand. These results highlight the importance of public health policy in mitigating the economic costs of the opioid epidemic.
+</p>
 
 </details>
 
-Media: [IBKnowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/finance/why-regulating-opioid-prescriptions-can-protect-the-us-economy)
+<p class="media">
+Media: <a href="https://www.imperial.ac.uk/business-school/ib-knowledge/finance/why-regulating-opioid-prescriptions-can-protect-the-us-economy/">IBKnowledge</a>
+</p>
+
+</div>
 
 ---
 
