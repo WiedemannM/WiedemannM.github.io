@@ -28,6 +28,7 @@ Media: [IBKnowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/fin
 ### [The CO2 Question: Technical Progress and the Climate Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212567)
 
 with P. Bolton and M. Kacperczyk 
+
 *(Revise and Resubmit at Journal of Finance)*
 
 <details>
@@ -44,6 +45,7 @@ Supplementary material: [Patent Classification Methodology](/files/PatentClassif
 ### [Futureproofing companies & valuation ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242113)
 
 with W. Marijnissen, W. Schramade and D. Schoenmake 
+
 *(Revise and Resubmit at International Review of Financial Analysis)*
 
 <details>
