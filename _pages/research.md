@@ -8,9 +8,10 @@ author_profile: true
 
 ### [Opioid Crisis and Real Estate Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712600)
 
-with C. Custodio and D. Cvijanovic
-
-*Journal of Financial and Quantitative Analysis, 2026;61(4):1604-1631.*
+<p style="margin-bottom: 0;">
+with C. Custodio and D. Cvijanovic<br>
+<em>Journal of Financial and Quantitative Analysis, 2026;61(4):1604-1631.</em>
+</p>
 
 <details>
 <summary>Abstract</summary>
@@ -27,8 +28,7 @@ Media: [IBKnowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/fin
 
 ### [The CO2 Question: Technical Progress and the Climate Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212567)
 
-with P. Bolton and M. Kacperczyk 
-
+with P. Bolton and M. Kacperczyk <br>
 *(Revise and Resubmit at Journal of Finance)*
 
 <details>
@@ -44,8 +44,7 @@ Supplementary material: [Patent Classification Methodology](/files/PatentClassif
 
 ### [Futureproofing companies & valuation ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242113)
 
-with W. Marijnissen, W. Schramade and D. Schoenmake 
-
+with W. Marijnissen, W. Schramade and D. Schoenmake <br>
 *(Revise and Resubmit at International Review of Financial Analysis)*
 
 <details>
