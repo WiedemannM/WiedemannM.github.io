@@ -40,7 +40,7 @@ Media: [CFA Netherlands VBA Journal](https://cfasociety.nl/uploads/vbajournaal/2
 
 ### [The CO2 Question: Technical Progress and the Climate Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212567)
 
-with P. Bolton and M. Kacperczyk
+with P. Bolton and M. Kacperczyk *(Revise and Resubmit at Journal of Finance)*
 
 <details>
 <summary>Abstract</summary>
@@ -55,7 +55,7 @@ Supplementary material: [Patent Classification Methodology](/files/PatentClassif
 
 ### [Futureproofing companies & valuation ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242113)
 
-with W. Marijnissen, W. Schramade and D. Schoenmake
+with W. Marijnissen, W. Schramade and D. Schoenmake *(Revise and Resubmit at International Review of Financial Analysis)*
 
 <details>
 <summary>Abstract</summary>
