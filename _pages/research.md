@@ -25,22 +25,10 @@ Media: [IBKnowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/fin
 
 ## Working Papers
 
-### [Do Responsible Institutional Investors Drive Green Capital Expenditures? Evidence from Cross-Listings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618793)
-
-<details>
-<summary>Abstract</summary>
-
-This paper examines whether responsible institutional ownership affects firms' green capital expenditures. Exploiting regional differences in sustainability preferences, I use U.S. cross-listings by European and Asian firms as plausibly exogenous negative shocks to responsible ownership. In a staggered difference-in-differences design, cross-listed firms experience a shift toward U.S. institutional ownership, a decline in responsible ownership, and lower subsequent green debt issuance. Complementary evidence links greater responsible ownership to more green patenting and lower greenhouse gas emissions. Together, the findings suggest that responsible investors shape firms' green capital expenditures and environmental outcomes rather than merely engaging in cheap talk.
-
-</details>
-
-Media: [CFA Netherlands VBA Journal](https://cfasociety.nl/uploads/vbajournaal/2025/autumn/TOT_VBA%20Journaal%20Najaar%202025%20nr%20162.pdf)
-
----
-
 ### [The CO2 Question: Technical Progress and the Climate Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212567)
 
-with P. Bolton and M. Kacperczyk *(Revise and Resubmit at Journal of Finance)*
+with P. Bolton and M. Kacperczyk 
+*(Revise and Resubmit at Journal of Finance)*
 
 <details>
 <summary>Abstract</summary>
@@ -55,7 +43,8 @@ Supplementary material: [Patent Classification Methodology](/files/PatentClassif
 
 ### [Futureproofing companies & valuation ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242113)
 
-with W. Marijnissen, W. Schramade and D. Schoenmake *(Revise and Resubmit at International Review of Financial Analysis)*
+with W. Marijnissen, W. Schramade and D. Schoenmake 
+*(Revise and Resubmit at International Review of Financial Analysis)*
 
 <details>
 <summary>Abstract</summary>
@@ -65,6 +54,19 @@ Companies face transition risks and opportunities that are not fully captured by
 </details>
 
 Media: [Börsen-Zeitung](https://www.boersen-zeitung.de/konjunktur-politik/unser-ziel-ist-eine-gesamtheitliche-betrachtung); [Het Financieele Dagblad](https://fd.nl/financiele-markten/1595839/het-meest-toekomstbestendige-aex-fonds-is-philips); [BNR Nieuwsradio](https://www.bnr.nl/nieuws/economie/10600497/een-glas-bier-kost-de-maatschappij-meer-dan-het-oplevert) 
+
+---
+
+### [Do Responsible Institutional Investors Drive Green Capital Expenditures? Evidence from Cross-Listings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4618793)
+
+<details>
+<summary>Abstract</summary>
+
+This paper examines whether responsible institutional ownership affects firms' green capital expenditures. Exploiting regional differences in sustainability preferences, I use U.S. cross-listings by European and Asian firms as plausibly exogenous negative shocks to responsible ownership. In a staggered difference-in-differences design, cross-listed firms experience a shift toward U.S. institutional ownership, a decline in responsible ownership, and lower subsequent green debt issuance. Complementary evidence links greater responsible ownership to more green patenting and lower greenhouse gas emissions. Together, the findings suggest that responsible investors shape firms' green capital expenditures and environmental outcomes rather than merely engaging in cheap talk.
+
+</details>
+
+Media: [CFA Netherlands VBA Journal](https://cfasociety.nl/uploads/vbajournaal/2025/autumn/TOT_VBA%20Journaal%20Najaar%202025%20nr%20162.pdf)
 
 ---
 
