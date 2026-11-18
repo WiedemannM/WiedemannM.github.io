@@ -13,7 +13,7 @@ author_profile: true
 ### The World of Finance (BSc) — 2025 to 2027
 
 
-<div style="width: 100%; margin: 20px 0;">
+<div style="width: 90%; margin: 20px 0;">
   <iframe
     src="https://drive.google.com/file/d/1iVabcX9CfjlGbyJ1tbSESKdju0CC4t4h/preview"
     width="100%"
