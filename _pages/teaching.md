@@ -6,11 +6,11 @@ author_profile: true
 
 ## Erasmus University Rotterdam
 
-### Corporate Finance I (MSc) — 2025 - 2027
+### Corporate Finance I (MSc) — 2025 to 2027
 
 ---
 
-### The World of Finance (BSc) — 2025 - 2027
+### The World of Finance (BSc) — 2025 to 2027
 
 <iframe
   src="https://drive.google.com/file/d/1iVabcX9CfjlGbyJ1tbSESKdju0CC4t4h/preview"
