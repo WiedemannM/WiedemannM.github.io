@@ -26,7 +26,7 @@ author_profile: true
 
 - [Formula sheet (PDF)](/files/FDM_FormulaSheet.pdf)
 - [Maths readiness check (PDF)](/files/FDM_MathsReadinessCheck.pdf)
-- Building on the former courses Financial Decision Making and Finance for Non-financials
+- Building on the former courses Financial Decision-Making and Finance for Non-financials
  
 ---
 
